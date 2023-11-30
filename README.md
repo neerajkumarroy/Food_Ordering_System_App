@@ -25,7 +25,7 @@ Online Food Ordering System Website using basic PHP, SQL, HTML & CSS. You can us
 <li>Open your web browser and check if you got the website running on your localhost (http://localhost:8080/www/)</li>
 </ol>
 
-# Authors
+# Author
 ## Neeraj Kumar
 <ul>
 <li>Github:https://github.com/neerajkumarroy</li>
